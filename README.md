@@ -4,7 +4,7 @@ Requirements:
 Python Version: 3.8 or higher
 	Libraries:
 	•	pandas: For data manipulation.
-	•	nltk: For text analysis (if used for tokenization or stopwords).
+	•	nltk: For text analysis
 	•	spacy: For advanced NLP tasks like entity recognition and phrase parsing.
 	•	numpy: For numerical computations.
 	Additional dependencies can be installed using requirements.txt.
